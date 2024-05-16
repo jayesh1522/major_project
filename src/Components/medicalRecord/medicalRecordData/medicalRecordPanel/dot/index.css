@@ -1,0 +1,7 @@
+.dot-class {
+  height: 17px;
+  width: 17px;
+  border: 2px solid #4b4b4b;
+  border-radius: 50%;
+  display: inline-block;
+}

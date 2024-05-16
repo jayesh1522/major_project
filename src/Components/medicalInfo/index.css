@@ -1,0 +1,27 @@
+.medical-info-div h1 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 27px;
+  margin: 0;
+  color: #000000;
+  text-align: start;
+}
+
+.medical-info-div {
+  padding: 16px 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.medical-info-div h5 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: start;
+  color: #000000;
+}

@@ -1,0 +1,15 @@
+.add-medicine-btn {
+  padding: 18px 0;
+}
+
+.add-medicine-span-btn {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 27px;
+
+  text-align: center;
+
+  color: #000000;
+}

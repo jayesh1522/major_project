@@ -1,0 +1,42 @@
+.medical-record-content-div {
+  padding: 16px 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.medical-record-content-div .ant-form,
+.medical-record-content-div .ant-form-item {
+  padding: 0;
+  margin: 0 !important;
+}
+
+.medical-record-content-div .ant-picker {
+  border: 2px solid #4b4b4b;
+  border-radius: 50px;
+  width: 100%;
+}
+
+.medical-record-collapse-class .ant-collapse-header {
+  text-align: start;
+  justify-content: flex-start;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.collapse-panel-header {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: start;
+  color: #000000;
+}
+
+.collapse-panel {
+  margin-bottom: 15px;
+}

@@ -1,0 +1,24 @@
+.drop-down-menu-class h7 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  text-align: start;
+  color: #000000;
+}
+
+.drop-down-menu-class {
+  text-align: start;
+}
+.select-class {
+  margin-top: 15px;
+}
+.select-class .ant-select {
+  width: 100% !important;
+}
+.select-class .ant-select-selector {
+  background: #ffffff;
+  border: 2px solid #4b4b4b !important;
+  border-radius: 50px !important;
+}

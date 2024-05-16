@@ -1,0 +1,36 @@
+.check-box-class {
+  text-align: start;
+}
+
+.check-box-label {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #000000;
+}
+
+.check-box-class .ant-checkbox-inner {
+  border: 2px solid #4b4b4b;
+  border-radius: 6px;
+}
+
+.check-box-class .ant-checkbox-checked .ant-checkbox-inner {
+  background-color: #4b4b4b;
+  border: 2px solid #4b4b4b;
+  border-radius: 6px;
+}
+.check-box-group-main-div {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.form-itm-check {
+  margin-bottom: 0 !important;
+}
+/* 
+.check-box-group {
+  display: flex;
+} */

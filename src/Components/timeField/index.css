@@ -1,0 +1,22 @@
+.time-field-class .ant-picker {
+  width: 100%;
+  background: #ffffff;
+  border: 2px solid #4b4b4b !important;
+  border-radius: 50px;
+  height: 40px;
+}
+
+.time-field-class h7 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  text-align: start;
+  color: #000000;
+  display: flex;
+  padding: 7px;
+}
+.form-itm-time {
+  margin-bottom: 0 !important;
+}

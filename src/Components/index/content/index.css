@@ -1,0 +1,16 @@
+.content-class {
+  display: flex;
+  flex-direction: column;
+  padding: 25px 16px;
+  gap: 28px;
+  max-width: 768px;
+}
+.add-btn-class {
+  height: auto !important;
+  padding: 0 !important;
+}
+
+/* .content-center-class {
+  display: flex;
+  justify-content: center;
+} */

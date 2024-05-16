@@ -1,0 +1,7 @@
+.date-field .ant-picker {
+  width: 100%;
+  background: #ffffff;
+  border: 2px solid #4b4b4b !important;
+  border-radius: 50px;
+  height: 40px;
+}
