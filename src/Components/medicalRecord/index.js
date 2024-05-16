@@ -1,4 +1,4 @@
-import { Col, Collapse } from "antd";
+import { Collapse } from "antd";
 import React from "react";
 import Rect from "../rectangle";
 import MedicalRecordData from "./medicalRecordData";
